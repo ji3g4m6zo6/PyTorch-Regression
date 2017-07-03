@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+.idea/misc.xml
+.idea/modules.xml
+.idea/Regression.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
